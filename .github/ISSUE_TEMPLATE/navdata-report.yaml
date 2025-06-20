@@ -54,7 +54,7 @@ body:
     id: additional
     attributes:
       label: Additional Information
-      description: Example: The aerodrome LPVL is missing in the navdata and it has considerable traffic.
+      description: "Example: The aerodrome LPVL is missing in the navdata and it has considerable traffic."
     validations:
       required: true
 
