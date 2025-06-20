@@ -1,4 +1,4 @@
-name: Aircraft Performance Data
+name: Aircraft Data
 description: Submit or correct aircraft performance data (takeoff, climb, cruise, landing, etc.).
 labels: ["aircraft", "pending triage"]
 assignees: ["jurgenjacobsen"]
