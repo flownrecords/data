@@ -27,19 +27,15 @@ body:
         - Other
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: navdata
     attributes:
       label: Navdata Item
       options:
-        - label: Aerodrome
-          value: aerodrome
-        - label: Waypoint
-          value: waypoint
-        - label: Navaid
-          value: navaid
-        - label: Other
-          value: other
+        - Aerodrome
+        - Waypoint
+        - Navaid
+        - Other
     validations:
       required: true
   - type: input
