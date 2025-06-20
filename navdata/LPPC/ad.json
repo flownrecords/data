@@ -1,142 +1,289 @@
 [
   {
     "icao": "LPVZ",
-    "coordinates": {
+    "coords": {
       "lat": 40.7250,
       "long": -7.8883
     }
   },
   {
     "icao": "LPVR",
-    "coordinates": {
+    "coords": {
       "lat": 41.2744,
       "long": -7.7208
     }
   },
   {
     "icao": "LPVL",
-    "coordinates": {
+    "coords": {
       "lat": 41.2670,
       "long": -8.5170
     }      
   },
   {
     "icao": "LPST",
-    "coordinates": {
+    "coords": {
       "lat": 38.8311,
       "long": -9.3390
     }
   },
   {
     "icao": "LPSO",
-    "coordinates": {
+    "coords": {
       "lat": 39.2410,
       "long": -8.0120
     }
   },
   {
     "icao": "LPSC",
-    "coordinates": {
+    "coords": {
       "lat": 39.1420,
       "long": -9.3640
     }
   },
   {
     "icao": "LPPR",
-    "coordinates": {
+    "coords": {
       "lat": 41.2481,
       "long": -8.6814
     }
   },
   {
     "icao": "LPPN",
-    "coordinates": {
+    "coords": {
       "lat": 39.7311,
       "long": -7.8747
     }
   },
   {
     "icao": "LPPM",
-    "coordinates": {
+    "coords": {
       "lat": 37.1494,
       "long": -8.5839
     }
   },
   {
     "icao": "LPMU",
-    "coordinates": {
+    "coords": {
       "lat": 41.3400,
       "long": -6.7110
     }
   },
   {
     "icao": "LPMI",
-    "coordinates": {
+    "coords": {
       "lat": 41.5000,
       "long": -7.2000
     }
   },
   {
     "icao": "LPFR",
-    "coordinates": {
+    "coords": {
       "lat": 37.0144,
       "long": -7.9658
     }
   },
   {
     "icao": "LPEV",
-    "coordinates": {
+    "coords": {
       "lat": 38.5330,
       "long": -7.9000
     }
   },
   {
     "icao": "LPCS",
-    "coordinates": {
+    "coords": {
       "lat": 38.7240,
       "long": -9.3550
     }
   },
   {
     "icao": "LPCO",
-    "coordinates": {
+    "coords": {
       "lat": 40.1570,
       "long": -8.4670
     }
   },
   {
     "icao": "LPCH",
-    "coordinates": {
+    "coords": {
       "lat": 41.7400,
     "long": -7.4680
     }
   },
   {
     "icao": "LPCB",
-    "coordinates": {
+    "coords": {
       "lat": 39.8220,
     "long": -7.4670
     }
   },
   {
     "icao": "LPBR",
-    "coordinates": {
+    "coords": {
       "lat": 41.5860,
       "long": -8.4450
     }
   },
   {
     "icao": "LPBG",
-    "coordinates": {
+    "coords": {
       "lat": 41.8570,
     "long": -6.7070
     }
   },
   {
     "icao": "LPOV",
-    "coordinates": {
+    "coords": {
       "lat": 40.9150,
       "long": -8.6450
+    }
+  },
+  {
+    "icao": "LPBJ",
+    "coords": {
+      "lat": 38.07888888888889, 
+      "long": -7.9325
+    }
+  },
+  {
+    "icao": "LPCR",
+    "coords": {
+      "lat": 39.671388888888885, 
+      "long": -31.116666666666667
+    }
+  },
+  {
+    "icao": "LPFL",
+    "coords": {
+      "lat": 39.45805555555556, 
+      "long": -31.13222222222222
+    }
+  },
+  {
+    "icao": "LPGR",
+    "coords": {
+      "lat": 39.0925, 
+      "long": -28.02861111111111
+    }
+  },
+  {
+    "icao": "LPHR",
+    "coords": {
+      "lat": 38.519999999999996,
+      "long": -28.71638888888889
+    }
+  },
+  {
+    "icao": "LPLA",
+    "coords": {
+      "lat": 38.761944444444445,
+      "long": -27.090833333333332
+    }
+  },
+  {
+    "icao": "LPPT",
+    "coords": {
+      "lat": 38.774166666666666,
+      "long": -9.134166666666665
+    }
+  },
+  {
+    "icao": "LPMA",
+    "coords": {
+      "lat": 32.69416666666666,
+      "long": -16.778055555555554
+    }
+  },
+  {
+    "icao": "LPPI",
+    "coords": {
+      "lat": 38.55444444444444,
+      "long": -28.441388888888888
+    }
+  },
+  {
+    "icao": "LPPD",
+    "coords": {
+      "lat": 37.74194444444444,
+      "long": -25.697777777777777
+    }
+  },
+  {
+    "icao": "LPPS",
+    "coords": {
+      "lat": 33.07083333333334,
+      "long": -16.349722222222223
+    }
+  },
+  {
+    "icao": "LPAZ",
+    "coords": {
+      "lat": 36.973888888888894,
+      "long": -25.171111111111113
+    }
+  },
+  {
+    "icao": "LPFA",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPFC",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPIN",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPJF",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPLZ",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPMN",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPSE",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPSJ",
+    "coords": {
+      "lat": 0,
+      "long": 0
+    }
+  },
+  {
+    "icao": "LPSR",
+    "coords": {
+      "lat": 0,
+      "long": 0
     }
   }
 ]
