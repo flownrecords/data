@@ -1,0 +1,65 @@
+name: Aircraft Performance Data
+description: Submit or correct aircraft performance data (takeoff, climb, cruise, landing, etc.).
+labels: ["aircraft", "pending triage"]
+assignees: ["jurgenjacobsen"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hello! Thanks for helping improve FlownRecords aircraft performance database ✈️
+
+        Before submitting, please check if your aircraft is already listed in existing issues.
+
+  - type: input
+    id: id
+    attributes:
+      label: Your FlownRecords username or email
+      description: Helps us track your submission and follow up if needed.
+    validations:
+      required: true
+
+  - type: input
+    id: aircraft
+    attributes:
+      label: Aircraft Type
+      description: Full aircraft type code (e.g., "C152", "PA28-181", "DA40NG").
+      placeholder: "Example: C152"
+    validations:
+      required: true
+
+  - type: textarea
+    id: performance
+    attributes:
+      label: Performance Data
+      description: |
+        Provide performance data like takeoff/landing distance, climb rates, cruise speeds, fuel consumption, etc.
+        Use structured format if possible (e.g. markdown tables, JSON).
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL (POH / QRH / etc.)
+      description: Link to an official or public POH, QRH, or performance sheet if available.
+      placeholder: "https://example.com/c152-POH.pdf"
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Include any assumptions, configurations (flaps, weight, ISA deviation), or alternate charts used.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Validation
+      options:
+        - label: I confirm that the provided data is accurate and, if possible, sourced from official documents.
+          required: true
+        - label: I checked existing issues and didn't find a duplicate.
+          required: true
