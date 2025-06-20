@@ -54,19 +54,13 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
-    id: source
+  - type: input
+    id: trust
     attributes:
-      label: Source of information
-      options:
-        - label: I have checked the FlownRecords Navdata and it is missing
-          value: flownrecords
-        - label: I have checked the VATSIM database and it is missing
-          value: vatsim
-        - label: I have checked the official source (e.g. AIP, Jeppesen, etc.) and it is missing
-          value: official
-    validations:
-      required: true
+      label: Correctness
+      options: 
+        - label: I confirm that the information was checked on official sources and I have provided correct and accurate data.
+          required: true
 
   - type: checkboxes
     id: validation
