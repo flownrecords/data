@@ -1,7 +1,7 @@
 name: Navdata
 description: Report an issue with Navdata, like missing or wrong aerodrome, waypoint, etc.
 labels: ["navdata", "pending triage"]
-assignees: ["jurgenjacobsen"]  # fixed typo
+assignees: ["jurgenjacobsen"]
 body:
   - type: markdown
     attributes:
@@ -71,5 +71,5 @@ body:
     attributes:
       label: Validation
       options:
-        - label: I have searched for other issues and didn’t find any alike.
+        - label: I have searched for other issues and didn't find any alike.
           required: true
