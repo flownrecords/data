@@ -1,0 +1,81 @@
+name: Navdata
+description: Report an issue with Navdata, like missing or wrong aerodrome, waypoint, etc.
+labels: ["navdata", "pending triage"]
+assignees: ["jurgenjacosben"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hello! Thank you for reporting an issue in FlownRecords Data
+        
+        Before reporting, please also check existing issues in this repository - you can filter them by "navdata" label (also check closed ones).
+
+  - type: input
+    id: id
+    attributes:
+      label: Your FlownRecords username or email
+      description: Please provide your FlownRecords username or the email associated with your account. This helps us to track your request and contact you if needed.
+    validations:
+      required: true
+  - type: dropdown
+    id: proposing
+    attributes:
+      label: What do you propose?
+      options:
+        - New navdata item (e.g. aerodrome, waypoint, etc.)
+        - Fix existing navdata item
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: navdata
+    attributes:
+      label: Navdata Item
+      options:
+        - label: Aerodrome
+          value: aerodrome
+        - label: Waypoint
+          value: waypoint
+        - label: Navaid
+          value: navaid
+        - label: Other
+          value: other
+    validations:
+      required: true
+  - type: input
+    id: what
+    attributes:
+      label: Name
+      description: "Please provide the name of the navdata item you are reporting."
+      placeholder: "ICAO: LPVL, Name: Vilar de Luz, Location: Vilar de Luz, Maia, Portugal"
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Add additional information (e.g description, information of the item, why it should be added, etc.)
+      description: "Example: The aerodrome LPVL is missing in the navdata and it has considerable traffic."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: source
+    attributes:
+      label: Source of information
+      options:
+        - label: I have checked the FlownRecords Navdata and it is missing
+          value: flownrecords
+        - label: I have checked the VATSIM database and it is missing
+          value: vatsim
+        - label: I have checked the official source (e.g. AIP, Jeppesen, etc.) and it is missing
+          value: official
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: Validation
+      options:
+        - label: I have searched for other issues and didn't found any alike
+          required: true
