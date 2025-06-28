@@ -2,36 +2,36 @@
   {
     "icao": "LPVZ",
     "coords": {
-      "lat": 40.7250,
-      "long": -7.8883
+      "lat": 40.7256,
+      "long": -7.8891
     }
   },
   {
     "icao": "LPVR",
     "coords": {
-      "lat": 41.2744,
-      "long": -7.7208
+      "lat": 41.2756,
+      "long": -7.7200
     }
   },
   {
     "icao": "LPVL",
     "coords": {
-      "lat": 41.2670,
-      "long": -8.5170
+      "lat": 41.2792,
+      "long": -8.5173
     }      
   },
   {
     "icao": "LPST",
     "coords": {
       "lat": 38.8311,
-      "long": -9.3390
+      "long": -9.33955
     }
   },
   {
     "icao": "LPSO",
     "coords": {
-      "lat": 39.2410,
-      "long": -8.0120
+      "lat": 39.2117,
+      "long": -8.0578
     }
   },
   {
@@ -44,8 +44,8 @@
   {
     "icao": "LPPR",
     "coords": {
-      "lat": 41.2481,
-      "long": -8.6814
+      "lat": 41.2356,
+      "long": -8.6781
     }
   },
   {
@@ -65,15 +65,15 @@
   {
     "icao": "LPMU",
     "coords": {
-      "lat": 41.3400,
-      "long": -6.7110
+      "lat": 41.3944,
+      "long": -6.6844
     }
   },
   {
     "icao": "LPMI",
     "coords": {
-      "lat": 41.5000,
-      "long": -7.2000
+      "lat": 41.4703,
+      "long": -7.5611
     }
   },
   {
@@ -86,63 +86,63 @@
   {
     "icao": "LPEV",
     "coords": {
-      "lat": 38.5330,
-      "long": -7.9000
+      "lat": 38.5297,
+      "long": -7.8919
     }
   },
   {
     "icao": "LPCS",
     "coords": {
-      "lat": 38.7240,
-      "long": -9.3550
+      "lat": 38.7256,
+      "long": -9.3553
     }
   },
   {
     "icao": "LPCO",
     "coords": {
-      "lat": 40.1570,
-      "long": -8.4670
+      "lat": 40.1561,
+      "long": -8.4692
     }
   },
   {
     "icao": "LPCH",
     "coords": {
-      "lat": 41.7400,
-    "long": -7.4680
+      "lat": 41.7386,
+      "long": -7.4628
     }
   },
   {
     "icao": "LPCB",
     "coords": {
-      "lat": 39.8220,
-    "long": -7.4670
+      "lat": 39.8483,
+      "long": -7.4417
     }
   },
   {
     "icao": "LPBR",
     "coords": {
-      "lat": 41.5860,
+      "lat": 41.5869,
       "long": -8.4450
     }
   },
   {
     "icao": "LPBG",
     "coords": {
-      "lat": 41.8570,
-    "long": -6.7070
+      "lat": 41.8567,
+      "long": -6.7075
     }
   },
   {
     "icao": "LPOV",
     "coords": {
-      "lat": 40.9150,
-      "long": -8.6450
+      "lat": 40.9159,
+      "long": -8.64592
     }
   },
   {
     "icao": "LPBJ",
     "coords": {
-      "lat": 38.07888888888889, 
+      "lat": 38.0789,
       "long": -7.9325
     }
   },
