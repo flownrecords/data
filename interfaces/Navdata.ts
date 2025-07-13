@@ -14,7 +14,7 @@ export type Waypoint = {
 }
 
 export type Aerodrome = {
-    name?: string;
+    name: string;
     id: string;
     coords: Coordinates;
 }
