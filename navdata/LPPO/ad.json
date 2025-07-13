@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Corvo",
+    "icao": "LPCR",
+    "coords": {
+      "lat": 39.671388888888885, 
+      "long": -31.116666666666667
+    }
+  },
+  {
+    "name": "Flores",
+    "icao": "LPFL",
+    "coords": {
+      "lat": 39.45805555555556, 
+      "long": -31.13222222222222
+    }
+  },
+  {
+    "name": "Graciosa",
+    "icao": "LPGR",
+    "coords": {
+      "lat": 39.0925, 
+      "long": -28.02861111111111
+    }
+  },
+  {
+    "name": "Horta",
+    "icao": "LPHR",
+    "coords": {
+      "lat": 38.519999999999996,
+      "long": -28.71638888888889
+    }
+  },
+  {
+    "name": "Lajes",
+    "icao": "LPLA",
+    "coords": {
+      "lat": 38.761944444444445,
+      "long": -27.090833333333332
+    }
+  },
+  {
+    "name": "Pico",
+    "icao": "LPPI",
+    "coords": {
+      "lat": 38.55444444444444,
+      "long": -28.441388888888888
+    }
+  },
+  {
+    "name": "Ponta Delgada",
+    "icao": "LPPD",
+    "coords": {
+      "lat": 37.74194444444444,
+      "long": -25.697777777777777
+    }
+  },
+  {
+    "name": "Santa Maria",
+    "icao": "LPAZ",
+    "coords": {
+      "lat": 36.973888888888894,
+      "long": -25.171111111111113
+    }
+  },
+  {
+    "name": "São Jorge",
+    "icao": "LPSJ",
+    "coords": {
+      "lat": 38.665277777777774,
+      "long": -28.174722222222222
+    }
+  }
+]
