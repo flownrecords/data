@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "name": "Bordeaux",
+        "icao": "LFBD",
+        "coords": {
+            "lat": 44.828612,
+            "long": -0.715278
+        }
+    }
+]
