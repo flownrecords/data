@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "name": "Vigo",
+        "icao": "LEVX",
+        "coords": {
+            "lat": 42.229167,
+            "long": -8.627500
+        }
+    },
+    {
+        "name": "Santiago de Compostela",
+        "icao": "LEST",
+        "coords": {
+            "lat": 42.898011,
+            "long": -8.415708
+        }
+    },
+    {
+        "name": "A Coruña",
+        "icao": "LECO",
+        "coords": {
+            "lat": 43.301944,
+            "long": -8.377222
+        }
+    }
+]
