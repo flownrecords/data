@@ -1,5 +1,6 @@
 [
   {
+    "name": "Viseu",
     "icao": "LPVZ",
     "coords": {
       "lat": 40.7256,
@@ -7,6 +8,7 @@
     }
   },
   {
+    "name": "Vila Real",
     "icao": "LPVR",
     "coords": {
       "lat": 41.2756,
@@ -14,6 +16,7 @@
     }
   },
   {
+    "name": "Vilar de Luz",
     "icao": "LPVL",
     "coords": {
       "lat": 41.2792,
@@ -21,6 +24,7 @@
     }      
   },
   {
+    "name": "Sintra",
     "icao": "LPST",
     "coords": {
       "lat": 38.8311,
@@ -28,6 +32,7 @@
     }
   },
   {
+    "name": "Ponte de Sor",
     "icao": "LPSO",
     "coords": {
       "lat": 39.2117,
@@ -35,6 +40,7 @@
     }
   },
   {
+    "name": "Santa Cruz",
     "icao": "LPSC",
     "coords": {
       "lat": 39.1420,
@@ -42,6 +48,7 @@
     }
   },
   {
+    "name": "Porto",
     "icao": "LPPR",
     "coords": {
       "lat": 41.2356,
@@ -49,6 +56,7 @@
     }
   },
   {
+    "name": "Proença-a-Nova",
     "icao": "LPPN",
     "coords": {
       "lat": 39.7311,
@@ -56,6 +64,7 @@
     }
   },
   {
+    "name": "Portimão",
     "icao": "LPPM",
     "coords": {
       "lat": 37.1494,
@@ -63,6 +72,7 @@
     }
   },
   {
+    "name": "Mogadouro",
     "icao": "LPMU",
     "coords": {
       "lat": 41.3944,
@@ -70,6 +80,7 @@
     }
   },
   {
+    "name": "Mirandela",
     "icao": "LPMI",
     "coords": {
       "lat": 41.4703,
@@ -77,6 +88,7 @@
     }
   },
   {
+    "name": "Faro",
     "icao": "LPFR",
     "coords": {
       "lat": 37.0144,
@@ -84,6 +96,7 @@
     }
   },
   {
+    "name": "Évora",
     "icao": "LPEV",
     "coords": {
       "lat": 38.5297,
@@ -91,6 +104,7 @@
     }
   },
   {
+    "name": "Cascais",
     "icao": "LPCS",
     "coords": {
       "lat": 38.7256,
@@ -98,6 +112,7 @@
     }
   },
   {
+    "name": "Coimbra",
     "icao": "LPCO",
     "coords": {
       "lat": 40.1561,
@@ -105,6 +120,7 @@
     }
   },
   {
+    "name": "Chaves",
     "icao": "LPCH",
     "coords": {
       "lat": 41.7386,
@@ -112,6 +128,7 @@
     }
   },
   {
+    "name": "Castelo Branco",
     "icao": "LPCB",
     "coords": {
       "lat": 39.8483,
@@ -119,6 +136,7 @@
     }
   },
   {
+    "name": "Braga",
     "icao": "LPBR",
     "coords": {
       "lat": 41.5869,
@@ -126,6 +144,7 @@
     }
   },
   {
+    "name": "Bragança",
     "icao": "LPBG",
     "coords": {
       "lat": 41.8567,
@@ -133,6 +152,7 @@
     }
   },
   {
+    "name": "Ovar",
     "icao": "LPOV",
     "coords": {
       "lat": 40.9159,
@@ -140,6 +160,7 @@
     }
   },
   {
+    "name": "Beja",
     "icao": "LPBJ",
     "coords": {
       "lat": 38.0789,
@@ -147,41 +168,7 @@
     }
   },
   {
-    "icao": "LPCR",
-    "coords": {
-      "lat": 39.671388888888885, 
-      "long": -31.116666666666667
-    }
-  },
-  {
-    "icao": "LPFL",
-    "coords": {
-      "lat": 39.45805555555556, 
-      "long": -31.13222222222222
-    }
-  },
-  {
-    "icao": "LPGR",
-    "coords": {
-      "lat": 39.0925, 
-      "long": -28.02861111111111
-    }
-  },
-  {
-    "icao": "LPHR",
-    "coords": {
-      "lat": 38.519999999999996,
-      "long": -28.71638888888889
-    }
-  },
-  {
-    "icao": "LPLA",
-    "coords": {
-      "lat": 38.761944444444445,
-      "long": -27.090833333333332
-    }
-  },
-  {
+    "name": "Lisbon",
     "icao": "LPPT",
     "coords": {
       "lat": 38.774166666666666,
@@ -189,6 +176,7 @@
     }
   },
   {
+    "name": "Funchal",
     "icao": "LPMA",
     "coords": {
       "lat": 32.69416666666666,
@@ -196,20 +184,7 @@
     }
   },
   {
-    "icao": "LPPI",
-    "coords": {
-      "lat": 38.55444444444444,
-      "long": -28.441388888888888
-    }
-  },
-  {
-    "icao": "LPPD",
-    "coords": {
-      "lat": 37.74194444444444,
-      "long": -25.697777777777777
-    }
-  },
-  {
+    "name": "Porto Santo",
     "icao": "LPPS",
     "coords": {
       "lat": 33.07083333333334,
@@ -217,13 +192,7 @@
     }
   },
   {
-    "icao": "LPAZ",
-    "coords": {
-      "lat": 36.973888888888894,
-      "long": -25.171111111111113
-    }
-  },
-  {
+    "name": "Ferreira do Alentejo",
     "icao": "LPFA",
     "coords": {
       "lat": 38.03916666666667,
@@ -231,6 +200,7 @@
     }
   },
   {
+    "name": "Figueira de Cavaleiros",
     "icao": "LPFC",
     "coords": {
       "lat": 38.0775,
@@ -238,6 +208,7 @@
     }
   },
   {
+    "name": "Espinho",
     "icao": "LPIN",
     "coords": {
       "lat": 40.972500000000004,
@@ -245,6 +216,7 @@
     }
   },
   {
+    "name": "Leiria",
     "icao": "LPJF",
     "coords": {
       "lat": 39.782222222222224,
@@ -252,6 +224,7 @@
     }
   },
   {
+    "name": "Lousã",
     "icao": "LPLZ",
     "coords": {
       "lat": 40.14222222222222,
@@ -259,6 +232,7 @@
     }
   },
   {
+    "name": "Amendoeora - Montemor-o-Novo",
     "icao": "LPMN",
     "coords": {
       "lat": 38.70916666666667,
@@ -266,6 +240,7 @@
     }
   },
   {
+    "name": "Seia",
     "icao": "LPSE",
     "coords": {
       "lat": 40.45333333333333,
@@ -273,13 +248,7 @@
     }
   },
   {
-    "icao": "LPSJ",
-    "coords": {
-      "lat": 38.665277777777774,
-      "long": -28.174722222222222
-    }
-  },
-  {
+    "name": "Santarém",
     "icao": "LPSR",
     "coords": {
       "lat": 39.20861111111111,
