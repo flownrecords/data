@@ -1,3 +1,11 @@
+export type FIR = {
+    name: string;
+    icao: string;
+    country: string;
+    region: string;
+    limits: Coordinates[];
+}
+
 export type Waypoint = {
     name: string;
     id: string;
@@ -6,6 +14,7 @@ export type Waypoint = {
 }
 
 export type Aerodrome = {
+    name?: string;
     id: string;
     coords: Coordinates;
 }
