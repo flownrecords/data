@@ -104,7 +104,7 @@
     }
   },
   {
-    "name": "AERÓDROMO DE PORTIMÃO",
+    "name": "AD - PORTIMÃO",
     "id": "PTMAO",
     "coords": {
       "lat": 37.13333333333333,
@@ -125,14 +125,6 @@
     "coords": {
       "lat": 39.4,
       "long": -8.2835
-    }
-  },
-  {
-    "name": "AB - TANCOS",
-    "id": "TANCS",
-    "coords": {
-      "lat": 39.466833333333334,
-      "long": -8.350166666666667
     }
   },
   {
@@ -192,14 +184,6 @@
     }
   },
   {
-    "name": "HELIPORT - ALBERGARIA-A-VELHA",
-    "id": "HALBG",
-    "coords": {
-      "lat": 40.7,
-      "long": -8.483333333333333
-    }
-  },
-  {
     "name": "ALBERGARIA DOS DOZE",
     "id": "ADOZE",
     "coords": {
@@ -237,14 +221,6 @@
     "coords": {
       "lat": 38.36666666666667,
       "long": -8.500166666666667
-    }
-  },
-  {
-    "name": "ALCÁCER DO SAL (MONTEVIL) - ULM",
-    "id": "MTVIL",
-    "coords": {
-      "lat": 38.3835,
-      "long": -8.566833333333333
     }
   },
   {
@@ -328,14 +304,6 @@
     }
   },
   {
-    "name": "ALDEIA DE PALMA - ULM",
-    "id": "APALM",
-    "coords": {
-      "lat": 38.45,
-      "long": -8.55
-    }
-  },
-  {
     "name": "ALDEIA DO BISPO",
     "id": "ABISP",
     "coords": {
@@ -365,14 +333,6 @@
     "coords": {
       "lat": 39.0335,
       "long": -8.9835
-    }
-  },
-  {
-    "name": "ALENTEJO AIR PARK - ULM",
-    "id": "ALAPK",
-    "coords": {
-      "lat": 37.45016666666667,
-      "long": -8.733333333333333
     }
   },
   {
@@ -512,14 +472,6 @@
     }
   },
   {
-    "name": "ALMOSTER - ULM",
-    "id": "ALMOS",
-    "coords": {
-      "lat": 39.216833333333334,
-      "long": -8.7835
-    }
-  },
-  {
     "name": "ALMOUROL (CASTELO)",
     "id": "ALMOU",
     "coords": {
@@ -541,14 +493,6 @@
     "coords": {
       "lat": 39.25,
       "long": -8.566833333333333
-    }
-  },
-  {
-    "name": "ALQUEIDÃO - ULM",
-    "id": "ALQAO",
-    "coords": {
-      "lat": 39.06666666666667,
-      "long": -8.8
     }
   },
   {
@@ -629,14 +573,6 @@
     "coords": {
       "lat": 41.266666666666666,
       "long": -8.066833333333333
-    }
-  },
-  {
-    "name": "AMARELEJA - ULM",
-    "id": "ALEJA",
-    "coords": {
-      "lat": 38.2,
-      "long": -7.216833333333334
     }
   },
   {
@@ -832,14 +768,6 @@
     }
   },
   {
-    "name": "ARMAÇÃO DE PÊRA - ULM",
-    "id": "ARMAC",
-    "coords": {
-      "lat": 37.11666666666667,
-      "long": -8.3335
-    }
-  },
-  {
     "name": "ARMAMAR",
     "id": "ARMAR",
     "coords": {
@@ -869,14 +797,6 @@
     "coords": {
       "lat": 38.71666666666667,
       "long": -7.983333333333333
-    }
-  },
-  {
-    "name": "ARRAIOLOS - ULM",
-    "id": "AOLOS",
-    "coords": {
-      "lat": 38.7,
-      "long": -8.000166666666667
     }
   },
   {
@@ -920,14 +840,6 @@
     }
   },
   {
-    "name": "ATOUGUIA DA BALEIA - ULM",
-    "id": "ATOUG",
-    "coords": {
-      "lat": 39.3335,
-      "long": -9.316666666666666
-    }
-  },
-  {
     "name": "AVEIRAS DE CIMA",
     "id": "ACIMA",
     "coords": {
@@ -965,14 +877,6 @@
     "coords": {
       "lat": 39.05,
       "long": -7.883333333333333
-    }
-  },
-  {
-    "name": "AZAMBUJA - ULM",
-    "id": "AZAMB",
-    "coords": {
-      "lat": 39.05016666666667,
-      "long": -8.816833333333333
     }
   },
   {
@@ -1360,14 +1264,6 @@
     }
   },
   {
-    "name": "BARRAGEM DO ROXO - ULM",
-    "id": "BROXO",
-    "coords": {
-      "lat": 37.93333333333333,
-      "long": -8.083333333333334
-    }
-  },
-  {
     "name": "BARRAGEM DO TORRÃO (MARCO DE CANAVEZES)",
     "id": "TRRAO",
     "coords": {
@@ -1408,14 +1304,6 @@
     }
   },
   {
-    "name": "BARROSINHA (ALCÁCER DO SAL) - ULM",
-    "id": "BARRO",
-    "coords": {
-      "lat": 38.3335,
-      "long": -8.433333333333334
-    }
-  },
-  {
     "name": "BATALHA",
     "id": "BATLH",
     "coords": {
@@ -1424,18 +1312,10 @@
     }
   },
   {
-    "name": "HELIPROT - BEJA",
+    "name": "HELIPORT - BEJA",
     "id": "HBEJA",
     "coords": {
       "lat": 38.05,
-      "long": -7.866833333333333
-    }
-  },
-  {
-    "name": "ULM - BEJA",
-    "id": "ABEJA",
-    "coords": {
-      "lat": 38.05016666666667,
       "long": -7.866833333333333
     }
   },
@@ -1464,27 +1344,11 @@
     }
   },
   {
-    "name": "BELO (MERTOLA) - ULM",
-    "id": "BELO",
-    "coords": {
-      "lat": 37.566833333333335,
-      "long": -7.7335
-    }
-  },
-  {
     "name": "BENAVENTE",
     "id": "BVENT",
     "coords": {
       "lat": 38.966833333333334,
       "long": -8.800166666666666
-    }
-  },
-  {
-    "name": "BENAVENTE - ULM",
-    "id": "BENAV",
-    "coords": {
-      "lat": 38.900166666666664,
-      "long": -8.783333333333333
     }
   },
   {
@@ -1517,14 +1381,6 @@
     "coords": {
       "lat": 39.400166666666664,
       "long": -9.500166666666667
-    }
-  },
-  {
-    "name": "BILRETE - ULM",
-    "id": "BILRT",
-    "coords": {
-      "lat": 38.966833333333334,
-      "long": -8.766666666666667
     }
   },
   {
@@ -1640,14 +1496,6 @@
     }
   },
   {
-    "name": "CABANAS (MINHEU) - ULM",
-    "id": "ACABN",
-    "coords": {
-      "lat": 41.53333333333333,
-      "long": -7.666833333333333
-    }
-  },
-  {
     "name": "CABEÇÃO",
     "id": "CBAO",
     "coords": {
@@ -1664,23 +1512,7 @@
     }
   },
   {
-    "name": "CABECEIRAS DE BASTO - ULM",
-    "id": "CBBST",
-    "coords": {
-      "lat": 41.55,
-      "long": -7.983333333333333
-    }
-  },
-  {
-    "name": "CABEÇO DA VACA - ULM",
-    "id": "CVACA",
-    "coords": {
-      "lat": 40.3335,
-      "long": -6.966833333333334
-    }
-  },
-  {
-    "name": "CABEÇO DE VIDE A",
+    "name": "CABEÇO DE VIDE",
     "id": "CAVID",
     "coords": {
       "lat": 39.11683333333333,
@@ -1808,24 +1640,8 @@
     }
   },
   {
-    "name": "CAMPINHO (REGUENGOS) - ULM",
-    "id": "CAMPI",
-    "coords": {
-      "lat": 38.35016666666667,
-      "long": -7.450166666666667
-    }
-  },
-  {
     "name": "CAMPO MAIOR",
     "id": "CMAOR",
-    "coords": {
-      "lat": 39.000166666666665,
-      "long": -7.066666666666666
-    }
-  },
-  {
-    "name": "CAMPO MAIOR - ULM",
-    "id": "ACMOR",
     "coords": {
       "lat": 39.000166666666665,
       "long": -7.066666666666666
@@ -2016,22 +1832,6 @@
     }
   },
   {
-    "name": "CASALINHO (POMBAL) - ULM",
-    "id": "POMBA",
-    "coords": {
-      "lat": 39.88333333333333,
-      "long": -8.6335
-    }
-  },
-  {
-    "name": "CASARÃO (ÁGUEDA) - ULM",
-    "id": "CSRAO",
-    "coords": {
-      "lat": 40.5335,
-      "long": -8.4
-    }
-  },
-  {
     "name": "CASCAIS (VOOS LOCAIS)",
     "id": "CCAIS",
     "coords": {
@@ -2053,14 +1853,6 @@
     "coords": {
       "lat": 39.81666666666667,
       "long": -7.4835
-    }
-  },
-  {
-    "name": "CASTELO BRANCO - ULM (LPCB)",
-    "id": "CBRAN",
-    "coords": {
-      "lat": 39.8335,
-      "long": -7.4335
     }
   },
   {
@@ -2152,14 +1944,6 @@
     }
   },
   {
-    "name": "CERVAL - ULM",
-    "id": "CERVL",
-    "coords": {
-      "lat": 41.966833333333334,
-      "long": -8.666666666666666
-    }
-  },
-  {
     "name": "CHAMUSCA",
     "id": "CHAMU",
     "coords": {
@@ -2192,27 +1976,11 @@
     }
   },
   {
-    "name": "CIBORRO - ULM",
-    "id": "CBORR",
-    "coords": {
-      "lat": 38.7835,
-      "long": -8.2
-    }
-  },
-  {
     "name": "CINFÃES",
     "id": "CINFA",
     "coords": {
       "lat": 41.06666666666667,
       "long": -8.083333333333334
-    }
-  },
-  {
-    "name": "COENTRAL (TREVIM) - ULM",
-    "id": "COENT",
-    "coords": {
-      "lat": 40.066833333333335,
-      "long": -8.150166666666667
     }
   },
   {
@@ -2232,14 +2000,6 @@
     }
   },
   {
-    "name": "COJA (ARGANIL) - ULM",
-    "id": "COJA",
-    "coords": {
-      "lat": 40.26683333333333,
-      "long": -7.966666666666667
-    }
-  },
-  {
     "name": "COLARES",
     "id": "COLAR",
     "coords": {
@@ -2248,27 +2008,11 @@
     }
   },
   {
-    "name": "COMENDA (GAVIÃO) - ULM",
-    "id": "CMEND",
-    "coords": {
-      "lat": 39.41683333333334,
-      "long": -7.816833333333333
-    }
-  },
-  {
     "name": "COMPORTA",
     "id": "CPORT",
     "coords": {
       "lat": 38.416666666666664,
       "long": -8.816666666666666
-    }
-  },
-  {
-    "name": "COMPORTA - ULM",
-    "id": "CMPOR",
-    "coords": {
-      "lat": 38.3835,
-      "long": -8.783333333333333
     }
   },
   {
@@ -2293,14 +2037,6 @@
     "coords": {
       "lat": 38.95016666666667,
       "long": -8.516833333333333
-    }
-  },
-  {
-    "name": "CORVACHA (AMARANTE) - ULM",
-    "id": "CRCHA",
-    "coords": {
-      "lat": 41.216833333333334,
-      "long": -7.966833333333334
     }
   },
   {
@@ -2464,14 +2200,6 @@
     }
   },
   {
-    "name": "DAROEIRA (HOTEL) - ULM",
-    "id": "DROEI",
-    "coords": {
-      "lat": 37.900166666666664,
-      "long": -8.316666666666666
-    }
-  },
-  {
     "name": "DOCA DO POCO DO BISPO",
     "id": "DPBIS",
     "coords": {
@@ -2493,14 +2221,6 @@
     "coords": {
       "lat": 38.86683333333333,
       "long": -7.150166666666666
-    }
-  },
-  {
-    "name": "ENTRE -OS-RIOS - ULM A",
-    "id": "ERIOS",
-    "coords": {
-      "lat": 41.066833333333335,
-      "long": -8.266833333333333
     }
   },
   {
@@ -2632,14 +2352,6 @@
     }
   },
   {
-    "name": "FAIAS ULM",
-    "id": "FAIAS",
-    "coords": {
-      "lat": 38.68333333333333,
-      "long": -8.7335
-    }
-  },
-  {
     "name": "FARO",
     "id": "FARO",
     "coords": {
@@ -2653,14 +2365,6 @@
     "coords": {
       "lat": 39.61683333333333,
       "long": -8.666833333333333
-    }
-  },
-  {
-    "name": "FATIMA (SALGUEIRA) - ULM",
-    "id": "SLGUE",
-    "coords": {
-      "lat": 39.55016666666667,
-      "long": -8.6335
     }
   },
   {
@@ -2760,14 +2464,6 @@
     }
   },
   {
-    "name": "FONTE SERNE - ULM",
-    "id": "FSERN",
-    "coords": {
-      "lat": 37.88333333333333,
-      "long": -8.4335
-    }
-  },
-  {
     "name": "FORNOS DE ALGODRES",
     "id": "FADRS",
     "coords": {
@@ -2789,14 +2485,6 @@
     "coords": {
       "lat": 39.16683333333334,
       "long": -8.233333333333333
-    }
-  },
-  {
-    "name": "FORTUNATO (S.MANCOS) - ULM",
-    "id": "FRTUN",
-    "coords": {
-      "lat": 38.41683333333334,
-      "long": -7.716833333333334
     }
   },
   {
@@ -2960,14 +2648,6 @@
     }
   },
   {
-    "name": "GRANDOLA - ULM",
-    "id": "GRDOL",
-    "coords": {
-      "lat": 38.150166666666664,
-      "long": -8.533333333333333
-    }
-  },
-  {
     "name": "GUARDA",
     "id": "GUARD",
     "coords": {
@@ -2992,14 +2672,6 @@
     }
   },
   {
-    "name": "HELIPORT - QUINTA DO LAGO",
-    "id": "QLAGO",
-    "coords": {
-      "lat": 37.03333333333333,
-      "long": -8.016666666666667
-    }
-  },
-  {
     "name": "HELIPORT - ÁGUAS DE MOURA",
     "id": "HAMOU",
     "coords": {
@@ -3013,14 +2685,6 @@
     "coords": {
       "lat": 40.7,
       "long": -8.483333333333333
-    }
-  },
-  {
-    "name": "HELIPORT - ALGÉS",
-    "id": "HALGE",
-    "coords": {
-      "lat": 38.6835,
-      "long": -9.233333333333333
     }
   },
   {
@@ -3064,27 +2728,11 @@
     }
   },
   {
-    "name": "HELIPORT - MASSARELOS (LPDA)",
-    "id": "HMSRL",
-    "coords": {
-      "lat": 41.1335,
-      "long": -8.616833333333334
-    }
-  },
-  {
     "name": "HELIPORT - MESÃO FRIO",
     "id": "MFRIO",
     "coords": {
       "lat": 41.11666666666667,
       "long": -8.616666666666667
-    }
-  },
-  {
-    "name": "HELIPORT - MONCHIQUE",
-    "id": "MONCH",
-    "coords": {
-      "lat": 37.31666666666667,
-      "long": -8.55
     }
   },
   {
@@ -3109,22 +2757,6 @@
     "coords": {
       "lat": 38.86683333333333,
       "long": -9.1835
-    }
-  },
-  {
-    "name": "HELIPORT - SANTA COMBA DÃO (LPCD)",
-    "id": "SCOMB",
-    "coords": {
-      "lat": 40.3835,
-      "long": -8.133333333333333
-    }
-  },
-  {
-    "name": "HELIPORT - SARDOAL (LPSD)",
-    "id": "SDOAL",
-    "coords": {
-      "lat": 39.5335,
-      "long": -8.150166666666667
     }
   },
   {
@@ -3168,35 +2800,11 @@
     }
   },
   {
-    "name": "HERDADE DA ZAMBUJEIRA (CASTRO VERDE) - ULM",
-    "id": "HZAMB",
-    "coords": {
-      "lat": 37.666666666666664,
-      "long": -8.116666666666667
-    }
-  },
-  {
-    "name": "HERDADE DO ESPORÃO (REGUENGOS) - ULM",
-    "id": "HESPR",
-    "coords": {
-      "lat": 38.38333333333333,
-      "long": -7.55
-    }
-  },
-  {
     "name": "HERDADE DO MONTINHO",
     "id": "HMONT",
     "coords": {
       "lat": 38.3,
       "long": -8.2
-    }
-  },
-  {
-    "name": "HERDADE DO PONTAL (PEGÕES) - ULM",
-    "id": "HPONT",
-    "coords": {
-      "lat": 38.70016666666667,
-      "long": -8.600166666666667
     }
   },
   {
@@ -3488,14 +3096,6 @@
     }
   },
   {
-    "name": "LADOEIRO - ULM",
-    "id": "LADOE",
-    "coords": {
-      "lat": 39.833333333333336,
-      "long": -7.283333333333333
-    }
-  },
-  {
     "name": "LAGOA",
     "id": "LAGOA",
     "coords": {
@@ -3528,14 +3128,6 @@
     }
   },
   {
-    "name": "LAGOS - ULM",
-    "id": "LAGOS",
-    "coords": {
-      "lat": 37.11666666666667,
-      "long": -8.666833333333333
-    }
-  },
-  {
     "name": "LAMAROSA (CORUCHE)",
     "id": "LROSA",
     "coords": {
@@ -3549,14 +3141,6 @@
     "coords": {
       "lat": 41.1,
       "long": -7.8
-    }
-  },
-  {
-    "name": "LAMEGO - ULM",
-    "id": "LMEGO",
-    "coords": {
-      "lat": 41.05016666666667,
-      "long": -7.7
     }
   },
   {
@@ -3613,22 +3197,6 @@
     "coords": {
       "lat": 39.7335,
       "long": -8.8
-    }
-  },
-  {
-    "name": "LENTISCA (ORIOLA) - ULM",
-    "id": "LTISC",
-    "coords": {
-      "lat": 38.333333333333336,
-      "long": -7.85
-    }
-  },
-  {
-    "name": "LEZIRIAS - ULM",
-    "id": "LEZIR",
-    "coords": {
-      "lat": 38.9,
-      "long": -8.933333333333334
     }
   },
   {
@@ -3912,14 +3480,6 @@
     }
   },
   {
-    "name": "HELIPORT - MESÃO FRIO",
-    "id": "MFRIO",
-    "coords": {
-      "lat": 41.11666666666667,
-      "long": -8.616666666666667
-    }
-  },
-  {
     "name": "MINAS DE SÃO DOMINGOS",
     "id": "MSDOM",
     "coords": {
@@ -4072,14 +3632,6 @@
     }
   },
   {
-    "name": "MONFORTINHO - ULM",
-    "id": "MFORT",
-    "coords": {
-      "lat": 39.966833333333334,
-      "long": -6.900166666666666
-    }
-  },
-  {
     "name": "MONSANTO (COVILHÃ)",
     "id": "MONST",
     "coords": {
@@ -4120,14 +3672,6 @@
     }
   },
   {
-    "name": "MONTE DO LAGO (MONTARGIL) - ULM",
-    "id": "MLAGO",
-    "coords": {
-      "lat": 39.066833333333335,
-      "long": -8.133333333333333
-    }
-  },
-  {
     "name": "MONTE GORDO",
     "id": "MGORD",
     "coords": {
@@ -4160,7 +3704,7 @@
     }
   },
   {
-    "name": "MONTEMOR -O-NOVO",
+    "name": "MONTEMOR-O-NOVO",
     "id": "MNOVO",
     "coords": {
       "lat": 38.6335,
@@ -4168,7 +3712,7 @@
     }
   },
   {
-    "name": "MONTEMOR -O-VELHO",
+    "name": "MONTEMOR-O-VELHO",
     "id": "MTVEL",
     "coords": {
       "lat": 40.166666666666664,
@@ -4184,27 +3728,11 @@
     }
   },
   {
-    "name": "MORARGIL - ULM",
-    "id": "MORAR",
-    "coords": {
-      "lat": 38.9835,
-      "long": -8.1335
-    }
-  },
-  {
     "name": "MOREIRA (MAIA)",
     "id": "MOREI",
     "coords": {
       "lat": 41.2335,
       "long": -8.6335
-    }
-  },
-  {
-    "name": "HELIPORT - MORGADO APRA (LOULÉ) (LPMB)",
-    "id": "HMBAR",
-    "coords": {
-      "lat": 37.1335,
-      "long": -7.95
     }
   },
   {
@@ -4504,14 +4032,6 @@
     }
   },
   {
-    "name": "PAREDES",
-    "id": "PARED",
-    "coords": {
-      "lat": 41.20016666666667,
-      "long": -8.333333333333334
-    }
-  },
-  {
     "name": "PAREDES DE COURA",
     "id": "PCOUR",
     "coords": {
@@ -4629,14 +4149,6 @@
     "coords": {
       "lat": 40.18333333333333,
       "long": -8.566833333333333
-    }
-  },
-  {
-    "name": "HELIPORT - PERNES",
-    "id": "PERNS",
-    "coords": {
-      "lat": 39.36683333333333,
-      "long": -8.650166666666667
     }
   },
   {
@@ -4773,14 +4285,6 @@
     "coords": {
       "lat": 38.30016666666667,
       "long": -7.7
-    }
-  },
-  {
-    "name": "PORTIMÃO - AERÓDROMO",
-    "id": "PTMAO",
-    "coords": {
-      "lat": 37.13333333333333,
-      "long": -8.533333333333333
     }
   },
   {
@@ -5424,14 +4928,6 @@
     }
   },
   {
-    "name": "HELIPORT - SALEMAS (LPSA)",
-    "id": "SALEM",
-    "coords": {
-      "lat": 38.86683333333333,
-      "long": -9.1835
-    }
-  },
-  {
     "name": "SALVADA",
     "id": "SALVA",
     "coords": {
@@ -5477,14 +4973,6 @@
     "coords": {
       "lat": 40.91683333333334,
       "long": -8.266833333333333
-    }
-  },
-  {
-    "name": "SANTA MARGARIDA - AERÓDROMO MILITAR",
-    "id": "SMARG",
-    "coords": {
-      "lat": 39.4,
-      "long": -8.2835
     }
   },
   {
@@ -5541,14 +5029,6 @@
     "coords": {
       "lat": 38.86683333333333,
       "long": -8.700166666666666
-    }
-  },
-  {
-    "name": "SANTO TIRSO",
-    "id": "STIRS",
-    "coords": {
-      "lat": 41.3335,
-      "long": -8.466833333333334
     }
   },
   {
@@ -5712,22 +5192,6 @@
     }
   },
   {
-    "name": "HELIPORT - SILVES (MATAMOUROS)",
-    "id": "SILVE",
-    "coords": {
-      "lat": 37.16683333333334,
-      "long": -8.45
-    }
-  },
-  {
-    "name": "HELIPORT - SINES (LPSI)",
-    "id": "SINES",
-    "coords": {
-      "lat": 37.95,
-      "long": -8.866833333333334
-    }
-  },
-  {
     "name": "SINTRA (POVOAÇÃO)",
     "id": "SINTR",
     "coords": {
@@ -5784,7 +5248,7 @@
     }
   },
   {
-    "name": "TANCOS - AERÓDROMO",
+    "name": "AB - TANCOS",
     "id": "TANCS",
     "coords": {
       "lat": 39.466833333333334,
@@ -5920,14 +5384,6 @@
     }
   },
   {
-    "name": "HELIPORT - TORRES VEDRAS",
-    "id": "HTVED",
-    "coords": {
-      "lat": 39.083333333333336,
-      "long": -9.250166666666667
-    }
-  },
-  {
     "name": "TRA13",
     "id": "TRA13",
     "coords": {
@@ -6000,19 +5456,11 @@
     }
   },
   {
-    "name": "TUNEL VFR PRT CROSSING N14 IC24",
+    "name": "JUMBO",
     "id": "JUMBO",
     "coords": {
       "lat": 41.233333333333334,
       "long": -8.616666666666667
-    }
-  },
-  {
-    "name": "TUNEL VFR PRT SOUTH OF RIO CAVADO",
-    "id": "ZENDE",
-    "coords": {
-      "lat": 41.53333333333333,
-      "long": -8.7835
     }
   },
   {
@@ -6280,7 +5728,7 @@
     }
   },
   {
-    "name": "ULM - ENTRE -OS-RIOS",
+    "name": "ULM - ENTRE-OS-RIOS",
     "id": "ERIOS",
     "coords": {
       "lat": 41.066833333333335,
