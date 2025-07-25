@@ -1,13 +1,5 @@
 [
   {
-    "name": "AMARANTE",
-    "id": "AMARA",
-    "coords": {
-      "lat": 41.2695,
-      "long": -8.0825
-    }
-  },
-  {
     "name": "BARCELOS",
     "id": "BELOS",
     "coords": {
@@ -27,8 +19,8 @@
     "name": "BARRAGEM DE CRESTUMA",
     "id": "CREST",
     "coords": {
-      "lat": 41.073,
-      "long": -8.487
+      "lat": 41.06666666666667,
+      "long": -8.483333333333333
     }
   },
   {
@@ -91,16 +83,8 @@
     "name": "ABRANTES",
     "id": "ABRAN",
     "coords": {
-      "lat": 39.463,
-      "long": -8.199666666666667
-    }
-  },
-  {
-    "name": "ABRANTES",
-    "id": "ABRAN",
-    "coords": {
       "lat": 39.45016666666667,
-      "long": -8.1835
+      "long": -8.199666666666667
     }
   },
   {
@@ -112,43 +96,11 @@
     }
   },
   {
-    "name": "AERÓDROMO DE ALIJÓ",
-    "id": "ALIJO",
-    "coords": {
-      "lat": 41.316833333333335,
-      "long": -7.450166666666667
-    }
-  },
-  {
-    "name": "(LPMN)",
-    "id": "MENDA",
-    "coords": {
-      "lat": 38.70016666666667,
-      "long": -8.266833333333333
-    }
-  },
-  {
-    "name": "AERÓDROMO DE CASCAIS (LPCS)",
+    "name": "AD - CASCAIS",
     "id": "CASC",
     "coords": {
       "lat": 38.716833333333334,
       "long": -9.35
-    }
-  },
-  {
-    "name": "AERÓDROMO DE ÉVORA",
-    "id": "EVR",
-    "coords": {
-      "lat": 38.53333333333333,
-      "long": -7.883333333333333
-    }
-  },
-  {
-    "name": "AERÓDROMO DE FIGUEIRA DE CAVALEIROS",
-    "id": "FIGCA",
-    "coords": {
-      "lat": 38.066833333333335,
-      "long": -8.233333333333333
     }
   },
   {
@@ -160,7 +112,7 @@
     }
   },
   {
-    "name": "AERÓDROMO DE VILAR DE LUZ (LPVL)",
+    "name": "AD - VILAR DE LUZ",
     "id": "VILUZ",
     "coords": {
       "lat": 41.28333333333333,
@@ -168,7 +120,7 @@
     }
   },
   {
-    "name": "AERÓDROMO MILITAR DE SANTA MARGARIDA",
+    "name": "AB - SANTA MARGARIDA",
     "id": "SMARG",
     "coords": {
       "lat": 39.4,
@@ -176,19 +128,11 @@
     }
   },
   {
-    "name": "AERÓDROMO MILITAR DE TANCOS",
+    "name": "AB - TANCOS",
     "id": "TANCS",
     "coords": {
       "lat": 39.466833333333334,
       "long": -8.350166666666667
-    }
-  },
-  {
-    "name": "ÁGUAS DE MOURA - HELIPORT",
-    "id": "HAMOU",
-    "coords": {
-      "lat": 38.583333333333336,
-      "long": -8.6835
     }
   },
   {
@@ -216,7 +160,7 @@
     }
   },
   {
-    "name": "AGUIAR DA BEIRA - HELIPORT",
+    "name": "HELIPORT - AGUIAR DA BEIRA",
     "id": "AGBEI",
     "coords": {
       "lat": 40.81666666666667,
@@ -240,7 +184,7 @@
     }
   },
   {
-    "name": "ALBERGARIA -A-VELHA",
+    "name": "ALBERGARIA-A-VELHA",
     "id": "ALVEL",
     "coords": {
       "lat": 40.68333333333333,
@@ -248,7 +192,7 @@
     }
   },
   {
-    "name": "ALBERGARIA -A-VELHA - HELIPORT (LPAG)",
+    "name": "HELIPORT - ALBERGARIA-A-VELHA",
     "id": "HALBG",
     "coords": {
       "lat": 40.7,
@@ -456,7 +400,7 @@
     }
   },
   {
-    "name": "ALFRAGIDE - HELIPORT",
+    "name": "HELIPORT - ALFRAGIDE",
     "id": "HALFR",
     "coords": {
       "lat": 38.733333333333334,
@@ -472,7 +416,7 @@
     }
   },
   {
-    "name": "ALGÉS - HELIPORT",
+    "name": "HELIPORT - ALGÉS",
     "id": "HALGE",
     "coords": {
       "lat": 38.6835,
@@ -504,7 +448,7 @@
     }
   },
   {
-    "name": "ALIJÓ - AERÓDROMO",
+    "name": "AD - ALIJÓ",
     "id": "ALIJO",
     "coords": {
       "lat": 41.316833333333335,
@@ -709,14 +653,6 @@
     "coords": {
       "lat": 37.35016666666667,
       "long": -7.950166666666666
-    }
-  },
-  {
-    "name": "(LPMN)",
-    "id": "MENDA",
-    "coords": {
-      "lat": 38.70016666666667,
-      "long": -8.266833333333333
     }
   },
   {
@@ -936,7 +872,7 @@
     }
   },
   {
-    "name": "ARRAIOLOS - ULM A",
+    "name": "ARRAIOLOS - ULM",
     "id": "AOLOS",
     "coords": {
       "lat": 38.7,
@@ -1080,14 +1016,6 @@
     }
   },
   {
-    "name": "BALTAR (PAREDES) - HELIPORT (LPPB)",
-    "id": "BLTAR",
-    "coords": {
-      "lat": 41.18333333333333,
-      "long": -8.383333333333333
-    }
-  },
-  {
     "name": "BALUGÃES",
     "id": "BALUG",
     "coords": {
@@ -1101,14 +1029,6 @@
     "coords": {
       "lat": 41.01683333333333,
       "long": -6.9335
-    }
-  },
-  {
-    "name": "BARCELOS",
-    "id": "BELOS",
-    "coords": {
-      "lat": 41.51683333333333,
-      "long": -8.600166666666667
     }
   },
   {
@@ -1181,14 +1101,6 @@
     "coords": {
       "lat": 39.650166666666664,
       "long": -7.533333333333333
-    }
-  },
-  {
-    "name": "BARRAGEM DE CRESTUMA TUNEL VFR PRT",
-    "id": "CREST",
-    "coords": {
-      "lat": 41.06666666666667,
-      "long": -8.483333333333333
     }
   },
   {
@@ -1512,7 +1424,7 @@
     }
   },
   {
-    "name": "BEJA - heliport",
+    "name": "HELIPROT - BEJA",
     "id": "HBEJA",
     "coords": {
       "lat": 38.05,
@@ -1520,7 +1432,7 @@
     }
   },
   {
-    "name": "BEJA - ULM",
+    "name": "ULM - BEJA",
     "id": "ABEJA",
     "coords": {
       "lat": 38.05016666666667,
@@ -2120,14 +2032,6 @@
     }
   },
   {
-    "name": "CASCAIS - AERÓDROMO (LPCS)",
-    "id": "CASC",
-    "coords": {
-      "lat": 38.716833333333334,
-      "long": -9.35
-    }
-  },
-  {
     "name": "CASCAIS (VOOS LOCAIS)",
     "id": "CCAIS",
     "coords": {
@@ -2221,14 +2125,6 @@
     "coords": {
       "lat": 40.63333333333333,
       "long": -7.3835
-    }
-  },
-  {
-    "name": "CELORICO DE BASTO",
-    "id": "CELOB",
-    "coords": {
-      "lat": 41.38333333333333,
-      "long": -8.0
     }
   },
   {
@@ -2720,7 +2616,7 @@
     }
   },
   {
-    "name": "ÉVORA - AERÓDROMO",
+    "name": "AD - ÉVORA",
     "id": "EVR",
     "coords": {
       "lat": 38.53333333333333,
@@ -2728,15 +2624,7 @@
     }
   },
   {
-    "name": "FAFE",
-    "id": "FAFE",
-    "coords": {
-      "lat": 41.45,
-      "long": -8.166666666666666
-    }
-  },
-  {
-    "name": "FAFE - heliport (LPFE)",
+    "name": "HELIPORT - FAFE (LPFE)",
     "id": "HFAFE",
     "coords": {
       "lat": 41.45,
@@ -2749,14 +2637,6 @@
     "coords": {
       "lat": 38.68333333333333,
       "long": -8.7335
-    }
-  },
-  {
-    "name": "FAMALICÃO",
-    "id": "FAMAL",
-    "coords": {
-      "lat": 41.36683333333333,
-      "long": -8.5
     }
   },
   {
@@ -2773,14 +2653,6 @@
     "coords": {
       "lat": 39.61683333333333,
       "long": -8.666833333333333
-    }
-  },
-  {
-    "name": "FATIMA (GIESTEIRA) - ULM",
-    "id": "FATIM",
-    "coords": {
-      "lat": 39.583333333333336,
-      "long": -8.666666666666666
     }
   },
   {
@@ -2856,7 +2728,7 @@
     }
   },
   {
-    "name": "FIGUEIRA DE CAVALEIROS - AERÓDROMO",
+    "name": "AD - FIGUEIRA DE CAVALEIROS",
     "id": "FIGCA",
     "coords": {
       "lat": 38.066833333333335,
@@ -3040,14 +2912,6 @@
     }
   },
   {
-    "name": "GARROCHEIRA (BENAVENTE) - ULM",
-    "id": "AGARR",
-    "coords": {
-      "lat": 38.900166666666664,
-      "long": -8.783333333333333
-    }
-  },
-  {
     "name": "GARVÃO",
     "id": "GRVAO",
     "coords": {
@@ -3104,14 +2968,6 @@
     }
   },
   {
-    "name": "GRIJÓ - heliport",
-    "id": "GRIJO",
-    "coords": {
-      "lat": 41.0,
-      "long": -8.6
-    }
-  },
-  {
     "name": "GUARDA",
     "id": "GUARD",
     "coords": {
@@ -3128,14 +2984,6 @@
     }
   },
   {
-    "name": "GUIMARÃES",
-    "id": "GUIMA",
-    "coords": {
-      "lat": 41.4335,
-      "long": -8.283333333333333
-    }
-  },
-  {
     "name": "GUINCHO",
     "id": "GUINC",
     "coords": {
@@ -3144,15 +2992,7 @@
     }
   },
   {
-    "name": "(LPHB)",
-    "id": "HBRAV",
-    "coords": {
-      "lat": 37.6835,
-      "long": -7.616666666666667
-    }
-  },
-  {
-    "name": "heliport DA QUINTA DO LAGO",
+    "name": "HELIPORT - QUINTA DO LAGO",
     "id": "QLAGO",
     "coords": {
       "lat": 37.03333333333333,
@@ -3160,7 +3000,7 @@
     }
   },
   {
-    "name": "heliport DE ÁGUAS DE MOURA",
+    "name": "HELIPORT - ÁGUAS DE MOURA",
     "id": "HAMOU",
     "coords": {
       "lat": 38.583333333333336,
@@ -3168,15 +3008,7 @@
     }
   },
   {
-    "name": "HELIPORT DE AGUIAR DA BEIRA",
-    "id": "AGBEI",
-    "coords": {
-      "lat": 40.81666666666667,
-      "long": -7.533333333333333
-    }
-  },
-  {
-    "name": "HELIPORT DE ALBERGARIA -A-VELHA (LPAG)",
+    "name": "HELIPORT - ALBERGARIA-A-VELHA (LPAG)",
     "id": "HALBG",
     "coords": {
       "lat": 40.7,
@@ -3184,15 +3016,7 @@
     }
   },
   {
-    "name": "HELIPORT DE ALFRAGIDE",
-    "id": "HALFR",
-    "coords": {
-      "lat": 38.733333333333334,
-      "long": -9.216666666666667
-    }
-  },
-  {
-    "name": "HELIPORT DE ALGÉS",
+    "name": "HELIPORT - ALGÉS",
     "id": "HALGE",
     "coords": {
       "lat": 38.6835,
@@ -3200,7 +3024,7 @@
     }
   },
   {
-    "name": "HELIPORT DE BALTAR (PAREDES) - (LPPB)",
+    "name": "HELIPORT - BALTAR (PAREDES) (LPPB)",
     "id": "BLTAR",
     "coords": {
       "lat": 41.18333333333333,
@@ -3208,23 +3032,7 @@
     }
   },
   {
-    "name": "HELIPORT DE BEJA",
-    "id": "HBEJA",
-    "coords": {
-      "lat": 38.05,
-      "long": -7.866833333333333
-    }
-  },
-  {
-    "name": "HELIPORT DE FAFE (LPFE)",
-    "id": "HFAFE",
-    "coords": {
-      "lat": 41.45,
-      "long": -8.133333333333333
-    }
-  },
-  {
-    "name": "HELIPORT DE GRIJÓ",
+    "name": "HELIPORT - GRIJÓ",
     "id": "GRIJO",
     "coords": {
       "lat": 41.0,
@@ -3232,15 +3040,7 @@
     }
   },
   {
-    "name": "HELIPORT DE LAGOS",
-    "id": "HLAGS",
-    "coords": {
-      "lat": 37.11666666666667,
-      "long": -8.666833333333333
-    }
-  },
-  {
-    "name": "HELIPORT DE LEÇA DA PALMEIRA",
+    "name": "HELIPORT - LEÇA DA PALMEIRA",
     "id": "HLESA",
     "coords": {
       "lat": 41.166666666666664,
@@ -3248,7 +3048,7 @@
     }
   },
   {
-    "name": "HELIPORT DE MACEDO DE CAVALEIROS (LPMC)",
+    "name": "HELIPORT - MACEDO DE CAVALEIROS (LPMC)",
     "id": "MCAVL",
     "coords": {
       "lat": 41.51683333333333,
@@ -3256,7 +3056,7 @@
     }
   },
   {
-    "name": "HELIPORT DE MAFRA (LPMP)",
+    "name": "HELIPORT - MAFRA (LPMP)",
     "id": "HMAFR",
     "coords": {
       "lat": 38.9335,
@@ -3264,7 +3064,7 @@
     }
   },
   {
-    "name": "HELIPORT DE MASSARELOS - (LPDA)",
+    "name": "HELIPORT - MASSARELOS (LPDA)",
     "id": "HMSRL",
     "coords": {
       "lat": 41.1335,
@@ -3272,7 +3072,7 @@
     }
   },
   {
-    "name": "HELIPORT DE MESÃO FRIO",
+    "name": "HELIPORT - MESÃO FRIO",
     "id": "MFRIO",
     "coords": {
       "lat": 41.11666666666667,
@@ -3280,7 +3080,7 @@
     }
   },
   {
-    "name": "HELIPORT DE MONCHIQUE",
+    "name": "HELIPORT - MONCHIQUE",
     "id": "MONCH",
     "coords": {
       "lat": 37.31666666666667,
@@ -3288,7 +3088,7 @@
     }
   },
   {
-    "name": "HELIPORT DE MORGADO DE APRA(LOULÉ) - (LPMB)",
+    "name": "HELIPORT - MORGADO DE APRA (LOULÉ) (LPMB)",
     "id": "HMBAR",
     "coords": {
       "lat": 37.1335,
@@ -3296,7 +3096,7 @@
     }
   },
   {
-    "name": "HELIPORT DE PERNES",
+    "name": "HELIPORT - PERNES",
     "id": "PERNS",
     "coords": {
       "lat": 39.36683333333333,
@@ -3304,7 +3104,7 @@
     }
   },
   {
-    "name": "HELIPORT DE SALEMAS (LPSA)",
+    "name": "HELIPORT - SALEMAS (LPSA)",
     "id": "SALEM",
     "coords": {
       "lat": 38.86683333333333,
@@ -3312,7 +3112,7 @@
     }
   },
   {
-    "name": "HELIPORT DE SANTA COMBA DÃO (LPCD)",
+    "name": "HELIPORT - SANTA COMBA DÃO (LPCD)",
     "id": "SCOMB",
     "coords": {
       "lat": 40.3835,
@@ -3320,7 +3120,7 @@
     }
   },
   {
-    "name": "HELIPORT DE SARDOAL - (LPSD)",
+    "name": "HELIPORT - SARDOAL (LPSD)",
     "id": "SDOAL",
     "coords": {
       "lat": 39.5335,
@@ -3328,7 +3128,7 @@
     }
   },
   {
-    "name": "HELIPORT DE SILVES (MATAMOUROS)",
+    "name": "HELIPORT - SILVES (MATAMOUROS)",
     "id": "SILVE",
     "coords": {
       "lat": 37.16683333333334,
@@ -3336,7 +3136,7 @@
     }
   },
   {
-    "name": "HELIPORT DE SINES - (LPSI)",
+    "name": "HELIPORT - SINES (LPSI)",
     "id": "SINES",
     "coords": {
       "lat": 37.95,
@@ -3344,7 +3144,7 @@
     }
   },
   {
-    "name": "HELIPORT DE TORRES VEDRAS",
+    "name": "HELIPORT - TORRES VEDRAS",
     "id": "HTVED",
     "coords": {
       "lat": 39.083333333333336,
@@ -3352,15 +3152,7 @@
     }
   },
   {
-    "name": "HELIPORT DE VIANA DO ALENTEJO",
-    "id": "HVIAL",
-    "coords": {
-      "lat": 38.333333333333336,
-      "long": -8.0
-    }
-  },
-  {
-    "name": "HELIPORT MUNICIPAL DE LOULÉ - (LPLO)",
+    "name": "HELIPORT - LOULÉ (LPLO)",
     "id": "LOULE",
     "coords": {
       "lat": 37.11683333333333,
@@ -3368,19 +3160,11 @@
     }
   },
   {
-    "name": "HERDADE DA BRAVA (MERTOLA) - HELIPORT (LPHB)",
+    "name": "HELIPORT - HERDADE DA BRAVA (MERTOLA) (LPHB)",
     "id": "HBRAV",
     "coords": {
       "lat": 37.6835,
       "long": -7.616666666666667
-    }
-  },
-  {
-    "name": "HERDADE DA LAMEIRA (ALTER DO CHÃO) - ULM",
-    "id": "LAMEI",
-    "coords": {
-      "lat": 39.26683333333333,
-      "long": -7.766666666666667
     }
   },
   {
@@ -3416,7 +3200,7 @@
     }
   },
   {
-    "name": "HOSPITAL DA AMADORA - HELIPORT (LPAS)",
+    "name": "HELIPORT - HOSPITAL DA AMADORA (LPAS)",
     "id": "HOAMD",
     "coords": {
       "lat": 38.7335,
@@ -3424,7 +3208,7 @@
     }
   },
   {
-    "name": "HOSPITAL DA COVILHÃ - HELIPORT (LPCL) A",
+    "name": "HELIPORT - HOSPITAL DA COVILHÃ (LPCL)",
     "id": "HOCVL",
     "coords": {
       "lat": 40.266666666666666,
@@ -3432,7 +3216,7 @@
     }
   },
   {
-    "name": "HOSPITAL DA GUARDA - HELIPORT (LPGA)",
+    "name": "HELIPORT - HOSPITAL DA GUARDA (LPGA)",
     "id": "HOGUA",
     "coords": {
       "lat": 40.51683333333333,
@@ -3440,7 +3224,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE ABRANTES - HELIPORT (LPAB)",
+    "name": "HELIPORT - HOSPITAL DE ABRANTES (LPAB)",
     "id": "HOABR",
     "coords": {
       "lat": 39.45,
@@ -3448,7 +3232,7 @@
     }
   },
   {
-    "name": "(LPGO)",
+    "name": "HELIPORT - Garcia de Orta (LPGO)",
     "id": "HOALM",
     "coords": {
       "lat": 38.66683333333334,
@@ -3456,7 +3240,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE BRAGA - HELIPORT (LPBH)",
+    "name": "HELIPORT - HOSPITAL DE BRAGA (LPBH)",
     "id": "HOBRA",
     "coords": {
       "lat": 41.56666666666667,
@@ -3464,7 +3248,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE BRAGANÇA - HELIPORT (LPTM)",
+    "name": "HELIPORT - HOSPITAL DE BRAGANÇA (LPTM)",
     "id": "HOBRG",
     "coords": {
       "lat": 41.8,
@@ -3472,7 +3256,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE CARNAXIDE - HELIPORT (LPFX)",
+    "name": "HELIPORT - HOSPITAL DE CARNAXIDE (LPFX)",
     "id": "HSCRZ",
     "coords": {
       "lat": 38.716833333333334,
@@ -3480,7 +3264,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE CASCAIS - HELIPORT (LPHC)",
+    "name": "HELIPORT - HOSPITAL DE CASCAIS (LPHC)",
     "id": "HOCAS",
     "coords": {
       "lat": 38.716833333333334,
@@ -3488,7 +3272,7 @@
     }
   },
   {
-    "name": "(LPCV)",
+    "name": "HELIPORT - HOSPITAL DE COIMBRA (LPCV)",
     "id": "HOCOI",
     "coords": {
       "lat": 40.1835,
@@ -3496,7 +3280,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE ÉVORA - HELIPORT (LPER)",
+    "name": "HELIPORT - HOSPITAL DE ÉVORA (LPER)",
     "id": "HOEVR",
     "coords": {
       "lat": 38.56666666666667,
@@ -3504,7 +3288,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE FARO - HELIPORT (LPFO)",
+    "name": "HELIPORT - HOSPITAL DE FARO (LPFO)",
     "id": "HOFAR",
     "coords": {
       "lat": 37.01683333333333,
@@ -3512,7 +3296,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE GAIA - SERRA DO PILAR",
+    "name": "HELIPORT - HOSPITAL DE GAIA - SERRA DO PILAR",
     "id": "HOGAI",
     "coords": {
       "lat": 41.11683333333333,
@@ -3520,7 +3304,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE GUIMARÃES - HELIPORT",
+    "name": "HELIPORT - HOSPITAL DE GUIMARÃES",
     "id": "HOGUI",
     "coords": {
       "lat": 41.4335,
@@ -3528,7 +3312,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE LAMEGO - HELIPORT",
+    "name": "HELIPORT - HOSPITAL DE LAMEGO",
     "id": "HOLAM",
     "coords": {
       "lat": 41.1,
@@ -3536,7 +3320,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE LEIRIA - HELIPORT (LPLE)",
+    "name": "HELIPORT - HOSPITAL DE LEIRIA (LPLE)",
     "id": "HOLEI",
     "coords": {
       "lat": 39.7335,
@@ -3544,7 +3328,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE MATOSINHOS - HELIPORT (LPPH)",
+    "name": "HELIPORT - HOSPITAL DE MATOSINHOS (LPPH)",
     "id": "HOMAT",
     "coords": {
       "lat": 41.16683333333334,
@@ -3552,7 +3336,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE MIRANDELA - HELIPORT (LPMD)",
+    "name": "HELIPORT - HOSPITAL DE MIRANDELA (LPMD)",
     "id": "HOMIR",
     "coords": {
       "lat": 41.483333333333334,
@@ -3560,7 +3344,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE PENAFIEL - HELIPORT (LPPA)",
+    "name": "HELIPORT - HOSPITAL DE PENAFIEL (LPPA)",
     "id": "HOPEN",
     "coords": {
       "lat": 41.1835,
@@ -3568,7 +3352,7 @@
     }
   },
   {
-    "name": "(LPBA)",
+    "name": "HELIPORT - HOSPITAL ALGARVIO (LPBA)",
     "id": "HOPTM",
     "coords": {
       "lat": 37.15,
@@ -3576,7 +3360,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE S. JOÃO DO PORTO - HELIPORT",
+    "name": "HELIPORT - HOSPITAL DE S. JOÃO DO PORTO",
     "id": "HOSJO",
     "coords": {
       "lat": 41.16683333333334,
@@ -3584,7 +3368,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE S. FRANCISCO XAVIER - LISBOA",
+    "name": "HELIPORT - HOSPITAL DE S. FRANCISCO XAVIER - LISBOA",
     "id": "HOSFX",
     "coords": {
       "lat": 38.70016666666667,
@@ -3592,7 +3376,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE SANTA MARIA - LISBOA (LPSM)",
+    "name": "HELIPORT - HOSPITAL DE SANTA MARIA - LISBOA (LPSM)",
     "id": "HOSTM",
     "coords": {
       "lat": 38.7335,
@@ -3600,7 +3384,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE SANTARÉM - HELIPORT",
+    "name": "HELIPORT - HOSPITAL DE SANTARÉM",
     "id": "HOSAN",
     "coords": {
       "lat": 39.2335,
@@ -3608,7 +3392,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE SANTIAGO DO CACÉM - HELIPORT",
+    "name": "HELIPORT - HOSPITAL DE SANTIAGO DO CACÉM",
     "id": "HSTCM",
     "coords": {
       "lat": 38.03333333333333,
@@ -3616,7 +3400,7 @@
     }
   },
   {
-    "name": "(LPSS)",
+    "name": "HELIPORT - HOSPITAL SÃO SEBASTIÃO (LPSS)",
     "id": "HFIRA",
     "coords": {
       "lat": 40.91683333333334,
@@ -3624,7 +3408,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE TOMAR - HELIPORT (LPTH)",
+    "name": "HELIPORT - HOSPITAL DE TOMAR (LPTH)",
     "id": "HOTOM",
     "coords": {
       "lat": 39.60016666666667,
@@ -3632,7 +3416,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE TORRES NOVAS - HELIPORT (LPNV)",
+    "name": "HELIPORT - HOSPITAL DE TORRES NOVAS (LPNV)",
     "id": "HOTNV",
     "coords": {
       "lat": 39.46666666666667,
@@ -3640,7 +3424,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE VIANA CASTELO - HELIPORT (LPVC)",
+    "name": "HELIPORT - HOSPITAL DE VIANA CASTELO (LPVC)",
     "id": "HOVIA",
     "coords": {
       "lat": 41.6835,
@@ -3648,7 +3432,7 @@
     }
   },
   {
-    "name": "(LPXR )",
+    "name": "HELIPORT - HOSPITAL DE VILA FRANCA DE XIRA (LPXR)",
     "id": "HOVFX",
     "coords": {
       "lat": 38.966833333333334,
@@ -3656,7 +3440,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE VILA REAL (S. PEDRO) - HELIPORT",
+    "name": "HELIPORT - HOSPITAL DE VILA REAL (S. PEDRO)",
     "id": "HOVRL",
     "coords": {
       "lat": 41.30016666666667,
@@ -3664,7 +3448,7 @@
     }
   },
   {
-    "name": "HOSPITAL DE VISEU - HELIPORT (LPTT)",
+    "name": "HELIPORT - HOSPITAL DE VISEU (LPTT)",
     "id": "HOVIS",
     "coords": {
       "lat": 40.6335,
@@ -3672,7 +3456,7 @@
     }
   },
   {
-    "name": "(LPCI)",
+    "name": "HELIPORT - HOSPITAL COIMBRA UNIVERSITÁRIO (LPCI)",
     "id": "HOCOU",
     "coords": {
       "lat": 40.21666666666667,
@@ -3680,7 +3464,7 @@
     }
   },
   {
-    "name": "IDANHA -A-NOVA",
+    "name": "IDANHA-A-NOVA",
     "id": "INOVA",
     "coords": {
       "lat": 39.916666666666664,
@@ -3736,7 +3520,7 @@
     }
   },
   {
-    "name": "LAGOS - HELIPORT",
+    "name": "HELIPORT - LAGOS",
     "id": "HLAGS",
     "coords": {
       "lat": 37.11666666666667,
@@ -3805,14 +3589,6 @@
     "coords": {
       "lat": 38.7835,
       "long": -8.4835
-    }
-  },
-  {
-    "name": "LEÇA DA PALMEIRA - HELIPORT",
-    "id": "HLESA",
-    "coords": {
-      "lat": 41.166666666666664,
-      "long": -8.683333333333334
     }
   },
   {
@@ -3896,14 +3672,6 @@
     }
   },
   {
-    "name": "LOULÉ - HELIPORT MUNICIPAL (LPLO)",
-    "id": "LOULE",
-    "coords": {
-      "lat": 37.11683333333333,
-      "long": -8.016833333333333
-    }
-  },
-  {
     "name": "LOURIÇAL",
     "id": "LOURI",
     "coords": {
@@ -3936,7 +3704,7 @@
     }
   },
   {
-    "name": "LOUSÃ - HELIPORT",
+    "name": "HELIPORT - LOUSÃ",
     "id": "HLOUS",
     "coords": {
       "lat": 40.1335,
@@ -3968,14 +3736,6 @@
     }
   },
   {
-    "name": "MACEDO DE CAVALEIROS - HELIPORT (LPMC)",
-    "id": "MCAVL",
-    "coords": {
-      "lat": 41.51683333333333,
-      "long": -6.950166666666666
-    }
-  },
-  {
     "name": "MACIEIRA DE CAMBRA",
     "id": "MCAMB",
     "coords": {
@@ -3989,14 +3749,6 @@
     "coords": {
       "lat": 38.93333333333333,
       "long": -9.316833333333333
-    }
-  },
-  {
-    "name": "MAFRA - HELIPORT (LPMP)",
-    "id": "HMAFR",
-    "coords": {
-      "lat": 38.9335,
-      "long": -9.35
     }
   },
   {
@@ -4088,7 +3840,7 @@
     }
   },
   {
-    "name": "MASSARELOS - HELIPORT (LPDA)",
+    "name": "HELIPORT - MASSARELOS (LPDA)",
     "id": "HMSRL",
     "coords": {
       "lat": 41.1335,
@@ -4160,7 +3912,7 @@
     }
   },
   {
-    "name": "MESÃO FRIO - HELIPORT",
+    "name": "HELIPORT - MESÃO FRIO",
     "id": "MFRIO",
     "coords": {
       "lat": 41.11666666666667,
@@ -4280,7 +4032,7 @@
     }
   },
   {
-    "name": "MONCHIQUE - HELIPORT",
+    "name": "HELIPORT - MONCHIQUE",
     "id": "MONCH",
     "coords": {
       "lat": 37.31666666666667,
@@ -4448,7 +4200,7 @@
     }
   },
   {
-    "name": "MORGADO APRA (LOULÉ) - HELIPORT (LPMB)",
+    "name": "HELIPORT - MORGADO APRA (LOULÉ) (LPMB)",
     "id": "HMBAR",
     "coords": {
       "lat": 37.1335,
@@ -4477,14 +4229,6 @@
     "coords": {
       "lat": 38.38333333333333,
       "long": -7.3335
-    }
-  },
-  {
-    "name": "MUGE - ULM",
-    "id": "MUGE",
-    "coords": {
-      "lat": 39.0835,
-      "long": -8.650166666666667
     }
   },
   {
@@ -4632,14 +4376,6 @@
     }
   },
   {
-    "name": "OLIVEIRA DE FRADES - ULM",
-    "id": "OFRDE",
-    "coords": {
-      "lat": 40.71666666666667,
-      "long": -8.233333333333333
-    }
-  },
-  {
     "name": "OLIVEIRA DO BAIRRO",
     "id": "OLIBA",
     "coords": {
@@ -4677,14 +4413,6 @@
     "coords": {
       "lat": 37.65,
       "long": -8.216833333333334
-    }
-  },
-  {
-    "name": "OURIQUE - ULM",
-    "id": "OURIQ",
-    "coords": {
-      "lat": 37.666666666666664,
-      "long": -8.233333333333333
     }
   },
   {
@@ -4736,14 +4464,6 @@
     }
   },
   {
-    "name": "PALMA - ULM",
-    "id": "PALMA",
-    "coords": {
-      "lat": 38.500166666666665,
-      "long": -8.566833333333333
-    }
-  },
-  {
     "name": "PALMEIRINHA (ALJEZUR)",
     "id": "PLMEI",
     "coords": {
@@ -4765,14 +4485,6 @@
     "coords": {
       "lat": 40.333333333333336,
       "long": -8.416666666666666
-    }
-  },
-  {
-    "name": "PAMPILHOSA DA SERRA - ULM",
-    "id": "PAMPS",
-    "coords": {
-      "lat": 40.01683333333333,
-      "long": -7.95
     }
   },
   {
@@ -4920,7 +4632,7 @@
     }
   },
   {
-    "name": "PERNES - HELIPORT",
+    "name": "HELIPORT - PERNES",
     "id": "PERNS",
     "coords": {
       "lat": 39.36683333333333,
@@ -4933,14 +4645,6 @@
     "coords": {
       "lat": 38.016666666666666,
       "long": -7.466833333333334
-    }
-  },
-  {
-    "name": "PIAS LONGAS - ULM",
-    "id": "PLONG",
-    "coords": {
-      "lat": 39.583333333333336,
-      "long": -8.566833333333333
     }
   },
   {
@@ -4965,14 +4669,6 @@
     "coords": {
       "lat": 41.18333333333333,
       "long": -7.5335
-    }
-  },
-  {
-    "name": "PINHEIRO - ULM",
-    "id": "PINHE",
-    "coords": {
-      "lat": 38.45,
-      "long": -8.700166666666666
     }
   },
   {
@@ -5093,14 +4789,6 @@
     "coords": {
       "lat": 41.15,
       "long": -8.600166666666667
-    }
-  },
-  {
-    "name": "PORTO ALTO - ULM",
-    "id": "PALTO",
-    "coords": {
-      "lat": 38.95,
-      "long": -8.850166666666667
     }
   },
   {
@@ -5280,7 +4968,7 @@
     }
   },
   {
-    "name": "QUINTA DO LAGO - HELIPORT",
+    "name": "HELIPORT - QUINTA DO LAGO",
     "id": "QLAGO",
     "coords": {
       "lat": 37.03333333333333,
@@ -5504,14 +5192,6 @@
     }
   },
   {
-    "name": "RIO FRIO - ULM",
-    "id": "RFRIO",
-    "coords": {
-      "lat": 38.68333333333333,
-      "long": -8.850166666666667
-    }
-  },
-  {
     "name": "RIO MAIOR",
     "id": "RIMOR",
     "coords": {
@@ -5704,14 +5384,6 @@
     }
   },
   {
-    "name": "S.MIGUEL DE LAÚNDOS - ULM",
-    "id": "LAUND",
-    "coords": {
-      "lat": 41.4335,
-      "long": -8.700166666666666
-    }
-  },
-  {
     "name": "SABROSA",
     "id": "SBROS",
     "coords": {
@@ -5725,14 +5397,6 @@
     "coords": {
       "lat": 40.35,
       "long": -7.083333333333333
-    }
-  },
-  {
-    "name": "SABUGAL (RUVINA) - ULM",
-    "id": "SBGAL",
-    "coords": {
-      "lat": 40.4,
-      "long": -6.9835
     }
   },
   {
@@ -5760,7 +5424,7 @@
     }
   },
   {
-    "name": "SALEMAS - HELIPORT (LPSA)",
+    "name": "HELIPORT - SALEMAS (LPSA)",
     "id": "SALEM",
     "coords": {
       "lat": 38.86683333333333,
@@ -5792,7 +5456,7 @@
     }
   },
   {
-    "name": "SANTA COMBA DÃO - HELIPORT (LPCD)",
+    "name": "HELIPORT - SANTA COMBA DÃO (LPCD)",
     "id": "SCOMB",
     "coords": {
       "lat": 40.3835,
@@ -5888,14 +5552,6 @@
     }
   },
   {
-    "name": "SAPEC (SETÚBAL) - ULM",
-    "id": "SAPEC",
-    "coords": {
-      "lat": 38.4835,
-      "long": -8.816666666666666
-    }
-  },
-  {
     "name": "SARDOAL A",
     "id": "SARDL",
     "coords": {
@@ -5904,7 +5560,7 @@
     }
   },
   {
-    "name": "SARDOAL - HELIPORT (LPSD)",
+    "name": "HELIPORT - SARDOAL (LPSD)",
     "id": "SDOAL",
     "coords": {
       "lat": 39.5335,
@@ -6056,7 +5712,7 @@
     }
   },
   {
-    "name": "SILVES (MATAMOUROS) - HELIPORT",
+    "name": "HELIPORT - SILVES (MATAMOUROS)",
     "id": "SILVE",
     "coords": {
       "lat": 37.16683333333334,
@@ -6064,7 +5720,7 @@
     }
   },
   {
-    "name": "SINES - HELIPORT (LPSI)",
+    "name": "HELIPORT - SINES (LPSI)",
     "id": "SINES",
     "coords": {
       "lat": 37.95,
@@ -6152,14 +5808,6 @@
     }
   },
   {
-    "name": "TAVIRA - ULM",
-    "id": "TVIRA",
-    "coords": {
-      "lat": 37.11666666666667,
-      "long": -7.666666666666667
-    }
-  },
-  {
     "name": "TELÕES",
     "id": "TELOE",
     "coords": {
@@ -6189,14 +5837,6 @@
     "coords": {
       "lat": 40.30016666666667,
       "long": -8.75
-    }
-  },
-  {
-    "name": "TOJEIRA - ULM",
-    "id": "TOJEI",
-    "coords": {
-      "lat": 38.88333333333333,
-      "long": -9.416833333333333
     }
   },
   {
@@ -6256,14 +5896,6 @@
     }
   },
   {
-    "name": "TORRE VÃ - ULM",
-    "id": "TRVA",
-    "coords": {
-      "lat": 37.816833333333335,
-      "long": -8.3835
-    }
-  },
-  {
     "name": "TORREIRA",
     "id": "TOREI",
     "coords": {
@@ -6288,7 +5920,7 @@
     }
   },
   {
-    "name": "TORRES VEDRAS - HELIPORT",
+    "name": "HELIPORT - TORRES VEDRAS",
     "id": "HTVED",
     "coords": {
       "lat": 39.083333333333336,
@@ -6432,7 +6064,7 @@
     }
   },
   {
-    "name": "ULM - AMENDOEIRA (MONTEMOR -O-NOVO)",
+    "name": "ULM - AMENDOEIRA (MONTEMOR-O-NOVO)",
     "id": "MENDA",
     "coords": {
       "lat": 38.70016666666667,
@@ -6992,35 +6624,11 @@
     }
   },
   {
-    "name": "VALADA - ULM",
-    "id": "AVLAD",
-    "coords": {
-      "lat": 39.06666666666667,
-      "long": -8.750166666666667
-    }
-  },
-  {
     "name": "VALADARES",
     "id": "VALAD",
     "coords": {
       "lat": 41.0835,
       "long": -8.616833333333334
-    }
-  },
-  {
-    "name": "VALADAS (FERREIRA DO ZEZERE) - ULM",
-    "id": "VLADA",
-    "coords": {
-      "lat": 39.66683333333334,
-      "long": -8.25
-    }
-  },
-  {
-    "name": "VALDONAS (TOMAR) - ULM",
-    "id": "VDONA",
-    "coords": {
-      "lat": 39.583333333333336,
-      "long": -8.366666666666667
     }
   },
   {
@@ -7069,14 +6677,6 @@
     "coords": {
       "lat": 42.01683333333333,
       "long": -8.6335
-    }
-  },
-  {
-    "name": "VALONGO",
-    "id": "VALON",
-    "coords": {
-      "lat": 41.18333333333333,
-      "long": -8.4835
     }
   },
   {
@@ -7136,14 +6736,6 @@
     }
   },
   {
-    "name": "VENDAS NOVAS - ULM",
-    "id": "VENOV",
-    "coords": {
-      "lat": 38.7,
-      "long": -8.4335
-    }
-  },
-  {
     "name": "VIANA DO ALENTEJO A",
     "id": "VIAAL",
     "coords": {
@@ -7152,19 +6744,11 @@
     }
   },
   {
-    "name": "VIANA DO ALENTEJO - HELIPORT",
+    "name": "HELIPORT - VIANA DO ALENTEJO",
     "id": "HVIAL",
     "coords": {
       "lat": 38.333333333333336,
       "long": -8.0
-    }
-  },
-  {
-    "name": "VIANA DO ALENTEJO - ULM",
-    "id": "VTEJO",
-    "coords": {
-      "lat": 38.35016666666667,
-      "long": -8.050166666666666
     }
   },
   {
@@ -7197,14 +6781,6 @@
     "coords": {
       "lat": 41.63333333333333,
       "long": -8.1335
-    }
-  },
-  {
-    "name": "VILA DAS AVES",
-    "id": "AVES",
-    "coords": {
-      "lat": 41.36666666666667,
-      "long": -8.4
     }
   },
   {
@@ -7376,14 +6952,6 @@
     }
   },
   {
-    "name": "VIMIEIRO - ULM",
-    "id": "VIMER",
-    "coords": {
-      "lat": 38.85,
-      "long": -7.8335
-    }
-  },
-  {
     "name": "VIMIOSO",
     "id": "VIMIO",
     "coords": {
@@ -7413,14 +6981,6 @@
     "coords": {
       "lat": 41.36683333333333,
       "long": -8.300166666666666
-    }
-  },
-  {
-    "name": "VOLTA DO VALE - ULM",
-    "id": "VVALE",
-    "coords": {
-      "lat": 38.95016666666667,
-      "long": -8.3835
     }
   },
   {
