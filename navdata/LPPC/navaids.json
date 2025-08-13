@@ -1,0 +1,47 @@
+[
+    {
+        "id": "VIS",
+        "type": "VOR/DME",
+        "freq": 113.1,
+        "coords": {
+            "lat": 40.723333,
+            "long": -7.885833
+        }
+    },
+    {
+        "id": "PRT",
+        "type": "VOR/DME",
+        "freq": 114.1,
+        "coords": {
+            "lat": 41.273056,
+            "long": -8.687778
+        }
+    },
+    {
+        "id": "FTM",
+        "type": "VOR/DME",
+        "freq": 113.5,
+        "coords": {
+            "lat": 39.665556,
+            "long": -8.492778
+        }
+    },
+    {
+        "id": "LIS",
+        "type": "VOR/DME",
+        "freq": 114.8,
+        "coords": {
+            "lat": 38.887778,
+            "long": -9.162778
+        }
+    },
+    {
+        "id": "VFA",
+        "type": "VOR/DME",
+        "freq": 112.8,
+        "coords": {
+            "lat": 37.013611,
+            "long": -7.975000
+        }
+    }
+]

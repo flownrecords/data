@@ -22,5 +22,157 @@
             "lat": 43.301944,
             "long": -8.377222
         }
+    },
+    {
+        "name": "Asturias",
+        "icao": "LEAS",
+        "coords": {
+            "lat": 43.563582,
+            "long": -6.034677
+        }
+    },
+    {
+        "name": "Mazaricos-Fervenza",
+        "icao": "LEMZ",
+        "coords": {
+            "lat": 42.982329,
+            "long": -9.005002
+        }
+    },
+    {
+        "name": "Villaframil",
+        "icao": "LEVF",
+        "coords": {
+            "lat": 43.55247,
+            "long": -7.08827
+        }
+    },
+    {
+        "name": "Monforte de Lemos",
+        "icao": "LENF",
+        "coords": {
+            "lat": 42.54694,
+            "long": -7.51928
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEBI",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LELN",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEZS",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEAT",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEVL",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEMR",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEOS",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEXJ",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEUC",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEVB",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LETZ",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "Valladolid",
+        "icao": "LEVD",
+        "coords": {
+            "lat": 41.7060,
+            "long": -4.8510
+        }
+    },
+    {
+        "name": "",
+        "icao": "LETC",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LESA",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
+    },
+    {
+        "name": "",
+        "icao": "LEUN",
+        "coords": {
+            "lat": 0,
+            "long": 0
+        }
     }
 ]

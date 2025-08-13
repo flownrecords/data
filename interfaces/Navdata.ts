@@ -23,3 +23,10 @@ export type Coordinates = {
     lat: number;
     long: number;
 }
+
+export type Navaid = {
+    id: string;
+    type: "VOR" | "VOR/DME" | "NDB" | "DME";
+    freq: number;
+    coords: Coordinates;
+}
