@@ -56,91 +56,91 @@
         }
     },
     {
-        "name": "",
+        "name": "Beariz",
         "icao": "LEBI",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.4575,
+            "long": -8.338055
         }
     },
     {
-        "name": "",
+        "name": "León",
         "icao": "LELN",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.5886111,
+            "long": -5.6561111
         }
     },
     {
-        "name": "",
+        "name": "Chozas de Abajo",
         "icao": "LEZS",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.496389,
+            "long": -5.682778
         }
     },
     {
-        "name": "",
+        "name": "Astorga",
         "icao": "LEAT",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.504167,
+            "long": -6.026944
         }
     },
     {
-        "name": "",
+        "name": "Villamarco",
         "icao": "LEVL",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.453611,
+            "long": -5.286667
         }
     },
     {
-        "name": "",
+        "name": "La Morgal",
         "icao": "LEMR",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 43.430556,
+            "long": -5.833056
         }
     },
     {
-        "name": "",
+        "name": "Los Oteros",
         "icao": "LEOS",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.3330560,
+            "long": -5.449167
         }
     },
     {
-        "name": "",
+        "name": "Santander",
         "icao": "LEXJ",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 43.426944,
+            "long": -3.820000
         }
     },
     {
-        "name": "",
+        "name": "Cillamayor",
         "icao": "LEUC",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.851389,
+            "long": -4.280833
         }
     },
     {
-        "name": "",
+        "name": "El Carascal",
         "icao": "LEVB",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 41.824722,
+            "long": -4.893056
         }
     },
     {
-        "name": "",
+        "name": "Torozos",
         "icao": "LETZ",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 41.783889,
+            "long": -4.865000
         }
     },
     {
@@ -152,27 +152,75 @@
         }
     },
     {
-        "name": "",
+        "name": "Matilla de Los Caños",
         "icao": "LETC",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 41.530556,
+            "long": -4.925000
         }
     },
     {
-        "name": "",
+        "name": "Salamanca",
         "icao": "LESA",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 42.030833,
+            "long": 2.848889
         }
     },
     {
-        "name": "",
+        "name": "Calzada de Valdunciel",
         "icao": "LEUN",
         "coords": {
-            "lat": 0,
-            "long": 0
+            "lat": 41.075000,
+            "long": -5.728056
+        }
+    },
+    {
+        "name": "Burgos",
+        "icao": "LEBG",
+        "coords": {
+            "lat": 42.3575,
+            "long": -3.613611
+        }
+    },
+    {
+        "name": "Bilbao",
+        "icao": "LEBB",
+        "coords": {
+            "lat": 43.301111,
+            "long": -2.910556
+        }
+    },
+    {
+        "name": "Vitoria",
+        "icao": "LEVT",
+        "coords": {
+            "lat": 42.882778,
+            "long": -2.724444
+        }
+    },
+    {
+        "name": "Logroño",
+        "icao": "LERJ",
+        "coords": {
+            "lat": 42.460556,
+            "long": -2.320556
+        }
+    },
+    {
+        "name": "Pamplona",
+        "icao": "LEPP",
+        "coords": {
+            "lat": 42.770000,
+            "long": -1.646389
+        }
+    },
+    {
+        "name": "San Sebastián",
+        "icao": "LESO",
+        "coords": {
+            "lat": 43.356389,
+            "long": -1.790556
         }
     }
 ]
