@@ -222,5 +222,37 @@
             "lat": 43.356389,
             "long": -1.790556
         }
+    },
+    {
+        "name": "Granada",
+        "icao": "LEGR",
+        "coords": {
+            "lat": 37.188611,
+            "long": -3.777222
+        }
+    },
+    {
+        "name": "Sevilla",
+        "icao": "LEZL",
+        "coords": {
+            "lat": 37.418056,
+            "long": -5.898889
+        }
+    },
+    {
+        "name": "Jerez",
+        "icao": "LEJR",
+        "coords": {
+            "lat": 36.744444,
+            "long": -6.060556
+        }
+    },
+    {
+        "name": "Málaga",
+        "icao": "LEMG",
+        "coords": {
+            "lat": 36.674167,
+            "long": -4.499444
+        }
     }
 ]
