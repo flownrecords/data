@@ -254,5 +254,37 @@
             "lat": 36.674167,
             "long": -4.499444
         }
+    },
+    {
+        "name": "Córdoba",
+        "icao": "LEBA",
+        "coords": {
+            "lat": 37.884167,
+            "long": -4.769444
+        }
+    },
+    {
+        "name": "Almería",
+        "icao": "LEAM",
+        "coords": {
+            "lat": 36.843056,
+            "long": -2.370833
+        }
+    },
+    {
+        "name": "Badajoz",
+        "icao": "LEBZ",
+        "coords": {
+            "lat": 38.879444,
+            "long": -6.870556
+        }
+    },
+    {
+        "name": "Gibraltar",
+        "icao": "LXGB",
+        "coords": {
+            "lat": 36.151222,
+            "long": -5.349167
+        }
     }
 ]
