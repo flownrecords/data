@@ -286,5 +286,125 @@
             "lat": 36.151222,
             "long": -5.349167
         }
+    },
+    {
+        "name": "Valencia",
+        "icao": "LEVC",
+        "coords": {
+            "lat": 39.4893,
+            "long": -0.4814
+        }
+    },
+    {
+        "name": "Murcia San Javier",
+        "icao": "LELC",
+        "coords": {
+            "lat": 37.7756,
+            "long": -1.1306
+        }
+    },
+    {
+        "name": "Alicante",
+        "icao": "LEAL",
+        "coords": {
+            "lat": 38.2822,
+            "long": -0.5582
+        }
+    },
+    {
+        "name": "Lleida-Alguaire",
+        "icao": "LEDA",
+        "coords": {
+            "lat": 41.6172,
+            "long": 0.6206
+        }
+    },
+    {
+        "name": "Region de Murcia",
+        "icao": "LEMI",
+        "coords": {
+            "lat": 37.7756,
+            "long": -1.1306
+        }
+    },
+    {
+        "name": "Ciudad Real",
+        "icao": "LEIZ",
+        "coords": {
+            "lat": 38.9869,
+            "long": -3.9274
+        }
+    },
+    {
+        "name": "Cuatro Vientos",
+        "icao": "LECU",
+        "coords": {
+            "lat": 40.3889,
+            "long": -3.7856
+        }
+    },
+    {
+        "name": "Madrid-Barajas",
+        "icao": "LEMD",
+        "coords": {
+            "lat": 40.4719,
+            "long": -3.5626
+        }
+    },
+    {
+        "name": "Reus",
+        "icao": "LERS",
+        "coords": {
+            "lat": 41.1472,
+            "long": 1.1672
+        }
+    },
+    {
+        "name": "Zaragoza",
+        "icao": "LEZG",
+        "coords": {
+            "lat": 41.6667,
+            "long": -0.9167
+        }
+    },
+    {
+        "name": "Huesca-Pirineos",
+        "icao": "LEHC",
+        "coords": {
+            "lat": 42.1406,
+            "long": -0.4089
+        }
+    },
+    {
+        "name": "Barcelona-El Prat",
+        "icao": "LEBL",
+        "coords": {
+            "lat": 41.2974,
+            "long": 2.0833
+        }
+    },
+    {
+        "name": "Barcelona Sabadell",
+        "icao": "LELL",
+        "coords": {
+            "lat": 41.4856,
+            "long": 2.1094
+        }
+    },
+    {
+        "name": "Girona",
+        "icao": "LEGE",
+        "coords": {
+            "lat": 41.9000,
+            "long": 2.7600
+        }
+    },
+    {
+        "name": "La Seu d'Urgell",
+        "icao": "LESU",
+        "coords": {
+            "lat": 42.3544,
+            "long": 1.4536
+        }
     }
 ]
